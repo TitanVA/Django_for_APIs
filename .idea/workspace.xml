@@ -1,52 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69aec6e-eaaa-42ee-bd7c-11d7bab66297" name="Changes" comment="Chapter 4 - Done">
-      <change afterPath="$PROJECT_DIR$/posts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
+    <list default="true" id="f69aec6e-eaaa-42ee-bd7c-11d7bab66297" name="Changes" comment="Chapter 7 - Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/config/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/todos/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +84,7 @@
       <updated>1650217523122</updated>
       <workItem from="1650229355436" duration="3311000" />
       <workItem from="1650291724696" duration="102000" />
-      <workItem from="1650292657018" duration="1748000" />
+      <workItem from="1650292657018" duration="2682000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2 - Done">
       <created>1650222776382</created>
@@ -154,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650230588690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 7 - Done">
+      <created>1650294696950</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650294696950</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +142,7 @@
     <MESSAGE value="Chapter 2 - Done" />
     <MESSAGE value="Chapter 3 - Done" />
     <MESSAGE value="Chapter 4 - Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4 - Done" />
+    <MESSAGE value="Chapter 7 - Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7 - Done" />
   </component>
 </project>
